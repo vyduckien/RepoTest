@@ -5,3 +5,6 @@ int add (int x, int y) {
 	a = x + y;
 	return a;
 }
+
+int multiply (int x, int y) {
+	int a = x * y;
