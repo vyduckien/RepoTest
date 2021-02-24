@@ -1,3 +1,9 @@
+/* Just a program that perform arithemtic operations
+ * Author: Kien Vy
+ * Email: duckien.21@gmail.com
+ * Date: 02/21/2021
+ */
+
 #include <stdio.h>
 #include "functions.h"
 
@@ -8,7 +14,7 @@ int main(void) {
 	int a = add (2, 3);
 	int b = multiply (2, 3);
 	printf("%d\n", a);
-	printf("%d", b);
+	printf("%d\\n", b);
 	printf("Gay");
-}   
+}
         
