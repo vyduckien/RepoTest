@@ -8,7 +8,7 @@
  */
 int add (int x, int y) {
 	
-	return x + y;
+		return x + y;
 }
 
 /* Function: Multiplication
@@ -18,6 +18,7 @@ int add (int x, int y) {
  * 		- y: Second operand
  */
 int multiply (int x, int y) {
-	return x * y;
+	
+		return x * y;
 }
 
