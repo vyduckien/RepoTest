@@ -9,6 +9,6 @@ int main(void) {
 	int b = multiply (2, 3);
 	printf("%d\n", a);
 	printf("%d", b);
-	
+	printf("Gay");
 }   
         
