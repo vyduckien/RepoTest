@@ -11,6 +11,17 @@ int add (int x, int y) {
 		return x + y;
 }
 
+/* Function: Subtraction
+ * Description: This function performs Subtraction on two operands input by the user
+ * Parameters: 
+ * 		- x: First operand
+ * 		- y: Second operand
+ */
+int subtract (int x, int y) {
+
+		return x - y;
+}
+
 /* Function: Multiplication
  * Description: This function performs multiplication on two operands input by the user
  * Parameters: 

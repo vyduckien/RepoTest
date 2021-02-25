@@ -1,10 +1,13 @@
 #ifndef FUNCTIONS_H_
 #define FUNCTIONS_H_
 
-/* Performs addition operations. */
+/* Performs addition. */
 int add (int x, int y); 
 
-/* Performs multiplication operations. */
+/* Performs subtraction. */
+int subtract (int x, int y);
+
+/* Performs multiplication. */
 int multiply (int x, int y);
 
 
